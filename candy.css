@@ -185,4 +185,8 @@ p {
     .section p{
         margin-bottom: 3 rem;
     }
+    .navbar {  
+        overflow-x:scroll;
+
+    }
 }
